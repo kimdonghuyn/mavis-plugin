@@ -1,5 +1,6 @@
 {
   "name": "mavis-plugin",
+  "description": "M.A.V.I.S. 주식 종합 분석 스킬을 배포하는 마켓플레이스",
   "owner": {
     "name": "kimdonghuyn"
   },
