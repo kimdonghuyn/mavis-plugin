@@ -1,0 +1,13 @@
+{
+  "name": "mavis-plugin",
+  "owner": {
+    "name": "kimdonghuyn"
+  },
+  "plugins": [
+    {
+      "name": "mavis",
+      "source": "./",
+      "description": "M.A.V.I.S. 7단계 프레임워크(거시경제·섹터·기술적 분석·수급·펀더멘털·심리·시나리오)로 주식 종합 분석 보고서를 작성하는 스킬"
+    }
+  ]
+}
