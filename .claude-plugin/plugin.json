@@ -4,5 +4,6 @@
   "description": "M.A.V.I.S.(Multi-layered Asset Valuation & Investment Strategy) 7단계 프레임워크 기반 주식 종합 분석 보고서 스킬",
   "author": {
     "name": "kimdonghuyn"
-  }
+  },
+  "license": "MIT"
 }
